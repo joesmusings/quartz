@@ -1,0 +1,15 @@
+---
+
+---
+- macOS
+	- email
+		- Edison Mail
+			- use gmail shortcuts
+				- e to archive
+				- f to forward
+					- use this for sending to Things & Omnivore
+	- note taking
+		- [[obsidian]]
+- Read it later
+	- omnivore
+- 

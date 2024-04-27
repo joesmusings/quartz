@@ -1,0 +1,28 @@
+- systems you use to figure out what to work on now
+- capture
+	- trusted place for ideas, tasks, etc to live
+	- bothcommitments and plans
+- configure
+	- where does it go, how is it organized?
+	- also includes all relevant info
+- controle
+	- plan for your time in advanced, not reactivity
+	- miltiscale - quarterly, weekly, daily
+- cal's system
+	- tasks in trello, plans in gdocs
+	- time block planner _ text file for campture
+	- show down - migrate to stable systems
+- configure
+	- separate boards for separate roles
+	- statuses
+		- to process
+		- watiing on
+		- this week
+		- initiatives
+	- these all get updated/cleaned during weekly plans
+	- multi scale planning -> daily time block
+- contrain
+	- 4th principle decciding how/what stuff is put on your plate
+	- automated processes
+		- how you can redue time/effort on non-essentials
+- 

@@ -1,6 +1,23 @@
----
-title: Welcome to Quartz
----
+Welcome to Joe's Knowledge base!
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Topics I'm Interested In
+- [[productivity]]
+- [[Personal Knowledge Management]]
+	- Inputs: [[reading]]
+	- Outputs: [[Writing]]
+- [[meditation]]
+- Hobbies
+	- [[learning japanese]]
+
+## My Next Steps
+- Consume
+	- [[Book Tracking]]
+	- [[Content]]
+- Process & Think
+	- [[Notes to Process]]
+	- [[Inbox]]
+- Create
+- Act
+	- [[Content Implementation]]
+
+- [ ] add dataview for currently reading (things within /ref)
