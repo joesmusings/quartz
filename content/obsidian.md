@@ -1,7 +1,7 @@
 ---
 
 ---
-My tool of choice for [[Personal Knowledge Management]]
+My tool of choice for [[personal knowledge management]]
 
 
 

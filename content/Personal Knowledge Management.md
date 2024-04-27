@@ -4,7 +4,7 @@
 - I use [[obsidian]]
 - My Folder structure:
 	- I use a variation of Nick Milo's ACE folder structure:
-	- a nameless folder to hold utilities like attatchments, templates, and data
+	- a nameless folder to hold utilities like attachments, templates, and data
 	- Atlas - a place for all of my evergreen notes
 	 - Journal - my version of "calendar"
 	- Efforts - Houses projects for me to complete and plans of how I want to live my life
