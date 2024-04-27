@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "notes.joesmusings.com",
     ignorePatterns: ["private", "templates", ".obsidian", "**/calendar", "**/-/templates", "**/-/daily-notes", "**/planning"],
     defaultDateType: "created",
     theme: {
