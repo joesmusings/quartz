@@ -10,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
       "Built using Quartz": "https://github.com/jackyzha0/quartz",
       "Main Blog": "https://joesmusings.com",
     },
-  }),
+  },),
 }
 
 // components for pages that display a single page (e.g. a single note)
@@ -28,9 +28,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
   ],
-  right: [
+  right: [   
     Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
 }

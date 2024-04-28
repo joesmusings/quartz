@@ -47,7 +47,7 @@ layout: reference
 		- turning thinking into actions
 			- the struggle with gaming/addictions starts with a thought: "man i wish I could X right now"
 			- then, you struggle to prevent the action
-	- the more focused your mind is, the more discipline you'll be
+	- **the more focused your mind is, the more discipline you'll be**
 		- "wow look at that person, they're so disciplined, they've been studying for four hours"
 			- this is all about focus for a long period of time
 	- what about the inverse, undisciplined?
@@ -75,9 +75,9 @@ the neuroscience of focus -> discipline
 		- the neuroscience
 			- anterior cingulate cortex and frontal lobes are where our willpower comes from
 			- its an exhaustible resource
-			- the part of our brain that monitors conflict is = to willpower, same part of the brain
-				- we think that we run out of willpower, but that's not what happens
-				- look at the subjective experience - when you have an internal conflict - battle between should & want
+			- the part of our brain that monitors conflict is the same as willpower, its the same part of the brain
+				- we think that we just run out of willpower, but that's not what happens
+				- look at the subjective experience - when you have an internal conflict - theres a battle between should & want
 					- the problem is that you throw in the towel
 					- you know what you should do, but you feel yourself giving up a little bit
 						- "yeah, not today"
