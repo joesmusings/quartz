@@ -12,7 +12,7 @@ Welcome to Joe's Knowledge base!
 ## My Next Steps
 - Consume
 	- [[Book Tracking]]
-	- [[content]]
+	- [[favorite content]]
 - Process & Think
 	- [[notes to process]]
 	- [[inbox]]
