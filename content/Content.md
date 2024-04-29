@@ -1,6 +1,7 @@
 ---
 
 ---
+*My favorite content around self-development, life improvement, etc.*
 ## Online
 
 - Mark Manson's Blog
@@ -12,4 +13,3 @@
 	- Podcast
 
 ## Books
-See [[Book Tracking]]

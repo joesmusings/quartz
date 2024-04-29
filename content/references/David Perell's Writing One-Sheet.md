@@ -1,7 +1,5 @@
 ---
 author: David Perell
-tags:
-  - ToProcess
 status: To Read
 ---
 

@@ -1,4 +1,10 @@
-https://tim.blog/2019/03/30/the-tim-ferriss-show-transcripts-neil-gaiman-366/
+---
+author: Tim Ferris
+url: https://tim.blog/2019/03/30/the-tim-ferriss-show-transcripts-neil-gaiman-366/
+status: Completed
+type: Article
+dateCreated:
+---
 
 **Tim Ferriss:** It seems to me, and you can’t believe everything you read on the internet, so I want you to certainly fact check me as needed. But you also have or have had some internal rules, so you can use your external environment to assist, but I read that, and again, feel free to correct, but making rules, the importance of making rules like, you can sit here and write or you can sit here and do nothing, but you can’t sit here and do anything else.
 

@@ -4,12 +4,12 @@
 - macOS
 	- email
 		- Edison Mail
-			- use gmail shortcuts
-				- e to archive
-				- f to forward
-					- use this for sending to Things & Omnivore
-	- note taking
+	- personal knowledge management
 		- [[obsidian]]
+	- note taking/project notes
+		- notion 
+	- task management
+		- [[using things 3|things 3]]
 - Read it later
-	- omnivore
+	- omnivore (FOSS, native sync with obsidian)
 - 

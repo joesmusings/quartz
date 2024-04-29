@@ -4,7 +4,7 @@ Welcome to Joe's Knowledge base!
 - [[productivity]]
 - [[personal knowledge management]]
 	- Inputs: [[reading]]
-	- Outputs: [[Writing]]
+	- Outputs: [[writing]]
 - [[meditation]]
 - Hobbies
 	- [[learning japanese]]
@@ -12,12 +12,12 @@ Welcome to Joe's Knowledge base!
 ## My Next Steps
 - Consume
 	- [[Book Tracking]]
-	- [[Content]]
+	- [[content]]
 - Process & Think
-	- [[Notes to Process]]
-	- [[Inbox]]
+	- [[notes to process]]
+	- [[inbox]]
 - Create
 - Act
-	- [[Content Implementation]]
+	- [[content implementation]]
 
 - [ ] add dataview for currently reading (things within /ref)

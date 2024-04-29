@@ -23,20 +23,18 @@ One of my struggles is in really nailing down the different aspects, the strateg
 For instance, a lot of strategies fall into the bucket of "what should I be working on right now?" I feel a bit overwhelmed, when I'm planning the week, or when I'm in the moment, knowing that there's something that I should probably be working on, but am trying to resist distractions of wanting to go look up or investigate some other rabbit hole, or just general energy and motivation to work on the thing in front of me
 
 
-[[Strategies to do things]]
+[[strategies to do things]]
 
 Cal Newport uses a "plan.txt" file to make his plan for the week, in a free form method.
 
 ## My Productivity System
 
-### The tools I use
+### The tools I use 
+see: [[my tech stack]]
 
-Quick Capture: Apple Notes
-Read it later: Omnivore
-Notes app: Obsidian
-Task management: Things 3
+### The system
+still trying to figure out this part
 
-
-Related Resources:
+## Related Resources:
 - [[Feel-Good Productivity]]
-- 
+- [[Slow Productivity]]

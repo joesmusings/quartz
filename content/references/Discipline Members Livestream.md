@@ -4,7 +4,6 @@ url: https://www.youtube.com/watch?v=rUA6xYRYcdw
 status: Reading
 type: Video
 dateCreated: 2024-03-26
-layout: reference
 ---
 
 - there's no sanskrit word for discipline

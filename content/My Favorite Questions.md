@@ -4,18 +4,18 @@
 
 ## Second Iteration
 
-1. [[How can we live more and work less?]] Should we, and what do each of those mean and look like?
-2. [[How to choose what to work on]] How do we find the kind of work that we enjoy?
-3. [[How do we get ourselves to do hard work?]] Whats the balance between hard work and effortlessness? Can hard work be effortless?
-4. [[How can we understand our brain to make leading lives we love easier?]] What strategies can we build based on that information?
-5. [[How can we build digital systems to help us do work that matters?]]
-6. [[What gets us to take action?]]
-7. [[How can we become better learners and thinkers post-formal education?]] How can we build those skills and improve?
-8. [[How can we engage with technology in a useful way?]]
-9. [[How can we align our actions with our goals and intentions?]]
-10. [[How do we find or build our life's calling, or purpose?]]
-11. [[What does "useful" content look like, and how can we create it?]] How can we engage with useful content to let it have its biggest impact on our lives?
-12. [[How can we build lifestyle businesses based on the work we love?]]
+1. How can we live more and work less? Should we, and what do each of those mean and look like?
+2. [[how to choose what to work on|How do we choose what to work on?]] How do we find the kind of work that we enjoy?
+3. How do we get ourselves to do hard work? Whats the balance between hard work and effortlessness? Can hard work be effortless?
+4. How can we understand our brain to make leading lives we love easier? What strategies can we build based on that information?
+5. How can we build digital systems to help us do work that matters?
+6. What gets us to take action?
+7. How can we become better learners and thinkers post-formal education? How can we build those skills and improve?
+8. How can we engage with technology in a useful way?
+9. How can we align our actions with our goals and intentions?]
+10. How do we find or build our life's calling, or purpose?
+11. What does "useful" content look like, and how can we create it? How can we engage with useful content to let it have its biggest impact on our lives?
+12. How can we build lifestyle businesses based on the work we love?
 13. What is discipline? Should we cultivate it? If so, how?
 
 
@@ -50,9 +50,9 @@
     - Should I try to find my passion?
     - Why should you focus on finding your passion?
     - Content
-		-[[How to Decide What to Do With Your Life]]
+		- How to Decide What to Do With Your Life
         - https://upjourney.com/best-books-on-finding-your-passion-and-purpose-in-life
-- How do you build a [[Business]] that gives you freedom instead of takes your time? #[[Life Questions]]
+- How do you build a Business that gives you freedom instead of takes your time? Life Questions]
     - Different stages of outsourcing
         - 1. It's all down to you, you do everything
         - 2. You manage the processes, but outsource the work
