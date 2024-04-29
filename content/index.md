@@ -18,6 +18,6 @@ Welcome to Joe's Knowledge base!
 	- [[inbox]]
 - Create
 - Act
-	- [[content implementation]]
+	- [[content]]
 
 - [ ] add dataview for currently reading (things within /ref)

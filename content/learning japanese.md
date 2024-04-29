@@ -13,17 +13,10 @@
 	- I will track all of my time via toggl
 	- Starting immersion with Flying Witch - subtitle tutor method
 		- https://animelon.com/video/594e564622477e0e27f1f13d
+- April 2024
+	- Tried doing the 30 day moe method, but wasn't really vibing with it, so I dropped it
+	- Instead, going back to trying to invest in a good tool for learning, so I started Nativ Share
 
-- Other animes to immerse ([source](https://www.youtube.com/watch?v=lktcZc9dYSI))
-		- super basic: chibi maruko chan
-		- also pretty basic: nichijou
-		- cute love story: from me to you
-			- wonder if fruits basket would be good too?
-		- my neighbor totoro
-		- cafe: shirokuma cafe
-		- advanced:
-			- hetalia
-	- 
 
 ## Resources
 Genki:
@@ -37,6 +30,16 @@ japanese from zero: https://www.youtube.com/watch?v=RsrakMT1h2g&list=PLOcym2c7xn
 [**Game Gengo ゲーム言語**](https://youtube.com/@GameGengo?si=7xek2ndwX75kdL7X)
 Reading practice
 - [**learn, japanese, easy / Crystal Hunters (Japanese)**](https://www.pixiv.net/en/artworks/80075613)
+- Other animes to immerse ([source](https://www.youtube.com/watch?v=lktcZc9dYSI))
+		- super basic: chibi maruko chan
+		- also pretty basic: nichijou
+		- cute love story: from me to you
+			- wonder if fruits basket would be good too?
+		- my neighbor totoro
+		- cafe: shirokuma cafe
+		- advanced:
+			- hetalia
+	- 
 - 
 
 ## Level 1
