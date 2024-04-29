@@ -15,32 +15,29 @@
 		- https://animelon.com/video/594e564622477e0e27f1f13d
 - April 2024
 	- Tried doing the 30 day moe method, but wasn't really vibing with it, so I dropped it
-	- Instead, going back to trying to invest in a good tool for learning, so I started Nativ Share
+	- Instead, going back to trying to invest in a good tool for learning, so I started Nativ Shark
 
 
 ## Resources
 Genki:
 - [Practice Website](https://www.reddit.com/r/LearnJapanese/comments/km2a2f/i_made_a_free_website_for_practicing_whats_taught/)
-- 
 Learning katakana: https://lrnj.com
 RRTK: https://ankiweb.net/shared/info/806367119
 KKLC: https://keystojapanese.com
 N5 Sentence Deck: https://ankiweb.net/shared/info/419481234
 japanese from zero: https://www.youtube.com/watch?v=RsrakMT1h2g&list=PLOcym2c7xnBwU12Flkm5RcLIEhvURQ8TB&index=1
-[**Game Gengo ゲーム言語**](https://youtube.com/@GameGengo?si=7xek2ndwX75kdL7X)
+[Game Gengo ゲーム言語](https://youtube.com/@GameGengo?si=7xek2ndwX75kdL7X)
 Reading practice
-- [**learn, japanese, easy / Crystal Hunters (Japanese)**](https://www.pixiv.net/en/artworks/80075613)
-- Other animes to immerse ([source](https://www.youtube.com/watch?v=lktcZc9dYSI))
-		- super basic: chibi maruko chan
-		- also pretty basic: nichijou
-		- cute love story: from me to you
-			- wonder if fruits basket would be good too?
-		- my neighbor totoro
-		- cafe: shirokuma cafe
-		- advanced:
-			- hetalia
-	- 
-- 
+- [learn, japanese, easy / Crystal Hunters (Japanese)](https://www.pixiv.net/en/artworks/80075613)
+Other animes to immerse ([source](https://www.youtube.com/watch?v=lktcZc9dYSI))
+- super basic: chibi maruko chan
+- also pretty basic: nichijou
+- cute love story: from me to you
+	- wonder if fruits basket would be good too?
+- my neighbor totoro
+- cafe: shirokuma cafe
+- advanced:
+	- hetalia
 
 ## Level 1
 Japanese ammo with misa
