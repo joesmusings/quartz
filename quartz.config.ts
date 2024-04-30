@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "notes.joesmusings.com",
-    ignorePatterns: ["private", "templates", ".obsidian", "**/calendar", "**/-/templates", "**/-/daily-notes", "**/planning"],
+    ignorePatterns: ["private", "templates", ".obsidian", "**/calendar", "**/-/templates", "**/-/daily-notes", "**/planning","**/efforts"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
