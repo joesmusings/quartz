@@ -27,8 +27,7 @@ type: Article
 > “To yell at your creativity, saying, ‘You must earn money for me!’ is sort of like yelling at a cat; it has no idea what you’re talking about, and all you’re doing is scaring it away.” — Liz Gilbert 
 
 
-> force.
-> 
+
 > Instead, excitement is simply information.
 > 
 > It’s your body telling you that you’re on the right track.
