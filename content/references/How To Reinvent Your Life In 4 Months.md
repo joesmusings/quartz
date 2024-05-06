@@ -1,8 +1,10 @@
 ---
 status: To Read
+author: Cal Newport
+url: https://www.youtube.com/watch?v=0G7Wu4DnDaw
+type: Video
+dateCreated:
 ---
-
-- Cal Newport
 
 
 1. Discipline - first 2 weeks (mid sept)

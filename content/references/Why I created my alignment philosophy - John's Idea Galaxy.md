@@ -3,7 +3,7 @@ dateCreated: 2024-02-12 09:36:44
 id: 2682baea-f02f-4e20-b50f-431925dcc7bc
 omnivore: https://omnivore.app/me/why-i-created-my-alignment-philosophy-john-s-idea-galaxy-obsidia-18d9dbfb8d0
 url: https://publish.obsidian.md/johnmavrick/My+Outputs/My+Brainstorms/%F0%9F%92%A1+Why+I+created+my+alignment+philosophy
-author: 
+author: John Mavrick
 status: To Process
 type: Article
 ---

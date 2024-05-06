@@ -1,8 +1,6 @@
 ---
 status: To Read
 ---
-# cal newport's planning system
-
 - Core documents
 	- values
 	- career + personal strategic plans
