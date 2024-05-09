@@ -14,7 +14,7 @@ status: Outline
 	- basics of karma - your current self has no power over your past circumstances, only the
 - Start fresh & let go of your expectations
 	- let go of the hustles culture, the needs of yourself
-	- !insert quote from that one guy ([[Flow vs Wanting - Quote by Rumi]])
+	- ![[Flow vs Wanting - Rumi]]
 - get clear
 	- understand your purpose
 	- understand your roadmap
@@ -25,6 +25,8 @@ status: Outline
 	- smallest win possibles
 	- this could be something as basic as making your bed or taking a shower. It can be completely unrelated, or it can be the direct next step in what you want to achieve
 		- honestly, doing something totally unrelated to get your body moving, clean, and refreshed, or cleaning your environment can provide some really great forward momentum by getting yourself moving and feeling good
+		- cleaning your space is a really good activity, a cleaner environment will lead to a cleaner mental space
+			- [ ] Source - Dr.K?
 	- Whatever it is, make sure that you break it down into the most incredibly easy steps, and it has the ability to be completed.
 	- Make it so clear that your instructions could sufice for someone who has never done it before
 	- also, you want to make it completable. nothing like "update resume" where the end is abstract. you can always be updating your resume. instead, choose something like "list out 5 biggest responsibilities of last job"

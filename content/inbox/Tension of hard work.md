@@ -1,4 +1,3 @@
-# Tension of hard work
 I have a lot of tension in my head around this idea of hard work
 
 people like joe abercrombie, super sucecssful author, says that he'd rather take a grater to his eyes than write. So why does he do it? How does he do it? 

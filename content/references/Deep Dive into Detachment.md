@@ -393,3 +393,8 @@ actions to take now
 		- so you choose that one next time
 			- and then you do awful, its not that easy
 			- then you feel even more frustrated
+
+
+# part 2
+https://docs.google.com/document/d/1QJnydEngE_dzPLumdUTvOQzdaZlc7sQkxFD8uRdetrk/edit#heading=h.tfhc179ywcig
+https://docs.google.com/document/d/1XTFMa0dmr9SVLjtrlHHOX5m7hwTboNKowp-1gDu8EPM/edit
