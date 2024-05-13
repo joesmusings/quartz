@@ -11,8 +11,8 @@
 5. How can we build digital systems to help us do work that matters?
 6. What gets us to take action?
 7. How can we become better learners and thinkers post-formal education? How can we build those skills and improve?
-8. How can we engage with technology in a useful way?
-9. How can we align our actions with our goals and intentions?]
+8. How can we intentionally & meaningfully engage with technology to improve our lives? How do we know when it's excessive, and how can we reign it back if so? 
+9. How can we align our actions with our goals and intentions?
 10. How do we find or build our life's calling, or purpose?
 11. What does "useful" content look like, and how can we create it? How can we engage with useful content to let it have its biggest impact on our lives?
 12. How can we build lifestyle businesses based on the work we love?
