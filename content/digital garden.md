@@ -1,6 +1,8 @@
 ---
 
 ---
+I currently 
+
 Setting up my digital garden:
 
 Would love to be able to use something to export my notes with something like obsidian-export, and then publish them in a more custom way than the digital garden plugin or Obsidian Publish.

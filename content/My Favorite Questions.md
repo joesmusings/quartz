@@ -2,10 +2,10 @@
 
 ---
 
-## Second Iteration
+## Second Iteration:
 
 1. How can we live more and work less? Should we, and what do each of those mean and look like?
-2. [[how to choose what to work on|How do we choose what to work on?]] How do we find the kind of work that we enjoy?
+2. [[how to choose what to work on|How do we choose what to work on?]] How do we find the kind of work that we enjoy? 
 3. How do we get ourselves to do hard work? Whats the balance between hard work and effortlessness? Can hard work be effortless?
 4. How can we understand our brain to make leading lives we love easier? What strategies can we build based on that information?
 5. How can we build digital systems to help us do work that matters?
@@ -16,10 +16,10 @@
 10. How do we find or build our life's calling, or purpose?
 11. What does "useful" content look like, and how can we create it? How can we engage with useful content to let it have its biggest impact on our lives?
 12. How can we build lifestyle businesses based on the work we love?
-13. What is discipline? Should we cultivate it? If so, how?
+13. What is discipline? Should we cultivate it? If so, how? 
 
 
-## First Iteration
+## First Iteration:
 1. What gets us to take action?
 2. How can we spend more time doing the things we love? 
 3. What is freedom and how can we bring more of it into our lives?
