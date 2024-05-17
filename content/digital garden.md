@@ -1,9 +1,19 @@
 ---
 
 ---
-I currently 
+I currently use quartz for hosting my digital garden!
 
-Setting up my digital garden:
+I decided that the core functionality I want to have is sharing my "evergreen notes" with the world. I care less about all of the integrations and customizations, more about reliability and ease of use.
+
+I went with quartz due to the ease of:
+- excluding certain folders (ex. my daily notes & project notes) without having to set a specific "publish" property (didn't like Obsidian Digital Garden Plugin because of that)
+- Syncing updates
+	- I created a Raycast Script that will run the sync functions automatically, I just have to type "sync" into Raycast, and voila!
+
+Future upgrades:
+- I really liked the comments functionality in Flowershow via Giscus, I'm hoping that functionality will also be rolled out to quartz!
+
+---
 
 Would love to be able to use something to export my notes with something like obsidian-export, and then publish them in a more custom way than the digital garden plugin or Obsidian Publish.
 
@@ -11,7 +21,7 @@ Requirements:
 - Automatically translate links from MD to HTML
 - Show Backlinks to current document
 - Able to customize what files come through based on folder, ex. all files in root, exclude folder X,Y
-- Dataview integration
+- Dataview integration - nice to have
 	- Cancels out quartz
 	- Though may be able to use [dv.markdown](https://blacksmithgu.github.io/obsidian-dataview/api/code-reference/#markdown-dataviews) or [templater](https://joschua.io/posts/2023/09/01/obsidian-publish-dataview/)
 - Automatic
@@ -21,7 +31,6 @@ Nice to haves:
 
 ## Options
 - Digital Garden Plugin
-	- 
 - https://linked-blog-starter.vercel.app/publish-your-obsidian-notes-with-linked-blog-starter - [YT](https://www.youtube.com/watch?v=rKSpK1dXn4E)
 	- I think your notes have to be within /published, however
 	- Built with Next, which would be cool to learn
