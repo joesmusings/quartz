@@ -8,6 +8,7 @@ status: To Process
 type: Article
 ---
 
+
 > The [philosopher Kieran Setiya](https://bookshop.org/p/books/midlife-a-philosophical-guide-kieran-setiya/16645041?ean=9780691183282) divides our activities into two categories: _telic_ and _atelic_. Telic activities are those that we do for their end product. The purpose of telic activities is to get to the end. But atelic activities are those we do to do them. The purpose of atelic activities is that the _process_ of doing them has value. 
 
 

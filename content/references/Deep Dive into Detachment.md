@@ -5,7 +5,7 @@ status: Reading
 type: Video
 dateCreated: 2024-04-30
 ---
-How do i become detached
+How do i become detached:
 - it isn't one things, it's a lot of different things
 - we'll go through many different perspectives to end up in this one place
 
