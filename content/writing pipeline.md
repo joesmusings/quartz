@@ -10,6 +10,7 @@ kanban-plugin: basic
 
 ## next
 
+- [ ] [[consistency in writing]]
 
 
 ## in progress

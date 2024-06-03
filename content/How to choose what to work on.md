@@ -1,7 +1,7 @@
 ---
 
 ---
-My writing: https://joesmusings.com/tag/life-purpose/
+My writing: https://joesmusings.substack.com/t/life-purpose
 
 ## The tool box
 
