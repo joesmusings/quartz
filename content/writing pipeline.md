@@ -6,15 +6,17 @@ kanban-plugin: basic
 
 ## idea
 
+- [ ] start-here page
 
 
 ## next
 
-- [ ] [[consistency in writing]]
+- [ ] [[the battle with consistency]]
 
 
 ## in progress
 
+- [ ] [[coming back to content creation]]
 
 
 ## published
