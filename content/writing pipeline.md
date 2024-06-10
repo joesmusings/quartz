@@ -11,17 +11,16 @@ kanban-plugin: basic
 
 ## next
 
-- [ ] [[the battle with consistency]]
 
 
 ## in progress
 
-- [ ] [[coming back to content creation]]
 
 
 ## published
 
 **Complete**
+- [x] [[coming back to content creation]]
 
 
 
