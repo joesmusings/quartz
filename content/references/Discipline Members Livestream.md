@@ -93,6 +93,12 @@ the neuroscience of focus -> discipline
 				- you don't have to win, just wait it out
 				- giving up is synonyms with not paying attention
 			- in order for this conflict to happen, there's also the "desire" that we have to fight against
+			  
+
+---
+
+
+
 				- gym vs. FF7
 					- the amount of willpower needed to go to the gym needs to be greater than the desire to play FF7, so the greater the desire to play FF7, the greater the willpower you'll need in order to get yourself to go to the gym
 					- discipline is easy when you don't really care
