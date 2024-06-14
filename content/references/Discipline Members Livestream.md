@@ -93,12 +93,6 @@ the neuroscience of focus -> discipline
 				- you don't have to win, just wait it out
 				- giving up is synonyms with not paying attention
 			- in order for this conflict to happen, there's also the "desire" that we have to fight against
-			  
-
----
-
-
-
 				- gym vs. FF7
 					- the amount of willpower needed to go to the gym needs to be greater than the desire to play FF7, so the greater the desire to play FF7, the greater the willpower you'll need in order to get yourself to go to the gym
 					- discipline is easy when you don't really care
@@ -190,6 +184,8 @@ vairygya - detachment
 				- the playing field starts to even out and you don't need as much willpower to push you in the "right" direction
 			- people who are disciplined, every day is not a struggle
 				- its a struggle if you're undisciplined
+
+
 - as you detatch from the desire, it'll be easier to be disciplined
 	- when you have no desire, action is very easy
 	- if no one cares, there's no argument
@@ -280,6 +276,8 @@ vairygya - detachment
 		- mandala's are a great way to 
 
 
+---
+
 gym vs ff7
 - there's desire on both side, how do we increase desire for the gym?
 - 4 different things that create motivation in us
@@ -305,7 +303,7 @@ gym vs ff7
 		- where does that come from - maybe social media
 		- so what do you care about?
 			- if you can dig into why
-				- ex. "i feel embarrased by my body so I don't join my friends on things like X & Y and I feel lonely and left out" or curshing on someone who goes to the gym
+				- ex. "i feel embarrased by my body so I don't join my friends on things like X & Y and I feel lonely and left out" or crushing on someone who goes to the gym
 				- on a given day, what's the pro and whats the con
 					- "next time your friends ask, do you want to go to the beach? do you want to go hang out with your crush"
 					- you're understanding the cost of your inaction here
@@ -355,6 +353,8 @@ accountability
 - "holding accountable"
 	- not "inviting" but "holding", forceful etc.
 - never been a yogic text about holding accountability
+
+---
 
 
 if you really want to be disciplined, you have to recreate the person who you are today
