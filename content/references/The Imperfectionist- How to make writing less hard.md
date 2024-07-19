@@ -3,7 +3,7 @@ dateCreated: 2023-08-01 12:57:07
 id: 0020e828-c5cd-41a1-9383-c28e03329fdc
 omnivore: https://omnivore.app/me/the-imperfectionist-how-to-make-writing-less-hard-189b2082aa7
 url: https://www.oliverburkeman.com/so/c9NUIQ7U5?cid=af83b493-e5f1-4e6c-a288-751ff8e327a9&languageTag=en
-author: 
+author:
 status: To Process
 type: Article
 ---
