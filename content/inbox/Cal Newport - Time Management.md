@@ -21,7 +21,7 @@
 		- initiatives
 	- these all get updated/cleaned during weekly plans
 	- multi scale planning -> daily time block
-- contrain
+- constrain
 	- 4th principle decciding how/what stuff is put on your plate
 	- automated processes
 		- how you can redue time/effort on non-essentials
