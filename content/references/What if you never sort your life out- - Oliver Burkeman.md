@@ -3,7 +3,7 @@ dateCreated: 2024-05-17 08:36:34
 id: fe37a9ea-536f-4920-a6c5-0cadf8c5f61f
 omnivore: https://omnivore.app/me/what-if-you-never-sort-your-life-out-oliver-burkeman-18f868dd88e
 url: https://www.oliverburkeman.com/never
-author: 
+author:
 status: To Process
 type: Article
 ---
