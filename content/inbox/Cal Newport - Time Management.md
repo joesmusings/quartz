@@ -25,4 +25,3 @@
 	- 4th principle decciding how/what stuff is put on your plate
 	- automated processes
 		- how you can redue time/effort on non-essentials
-- 
