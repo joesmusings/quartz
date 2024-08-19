@@ -3,7 +3,7 @@ dateCreated: 2023-06-10 18:56:41
 id: 42c00826-42de-40b3-8c37-8dd1209419fe
 omnivore: https://omnivore.app/me/how-to-build-digital-leverage-justin-welsh-188a786acbb
 url: https://www.justinwelsh.me/blog/how-to-build-digital-leverage
-author: 
+author:
 status: To Process
 type: Article
 ---
