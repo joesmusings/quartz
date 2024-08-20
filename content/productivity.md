@@ -13,7 +13,6 @@ What is productivity?
 - time management
 - doing the thing
 	- getting started
-		- 
 	- keeping going
 		- reducing distractions
 
@@ -23,7 +22,7 @@ One of my struggles is in really nailing down the different aspects, the strateg
 For instance, a lot of strategies fall into the bucket of "what should I be working on right now?" I feel a bit overwhelmed, when I'm planning the week, or when I'm in the moment, knowing that there's something that I should probably be working on, but am trying to resist distractions of wanting to go look up or investigate some other rabbit hole, or just general energy and motivation to work on the thing in front of me
 
 
-[[strategies to do things]]
+Also check out: [[strategies to do things]]
 
 Cal Newport uses a "plan.txt" file to make his plan for the week, in a free form method.
 
