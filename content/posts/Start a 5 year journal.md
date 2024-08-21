@@ -1,3 +1,6 @@
+---
+url: https://joesmusings.substack.com/p/start-a-5-year-journal
+---
 Over the years, I’ve tried many different kinds of journaling and ways of documenting my life. Everything from daily habit tracking in Notion to Obsidian's daily pages. Bullet journal planning, morning pages, daily logging -- oh my, indeed. But without fail, they always ended up abandoned within a month or two (on a good run).
 
 I would find a trove of people on YouTube who had made a hobby, sometimes a career, out of showcasing their long term commitments to documenting their life, be it through daily vlogging or bullet journaling. Their portfolios were impressive, inspiring, and would lead me to pick up their medium of choice. Though time after time, I would abandon it shortly after.
