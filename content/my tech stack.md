@@ -1,0 +1,15 @@
+---
+
+---
+- macOS
+	- email
+		- Edison Mail
+	- personal knowledge management
+		- [[obsidian]]
+	- note taking/project notes
+		- notion 
+	- task management
+		- [[using things 3|things 3]]
+- Read it later
+	- omnivore (FOSS, native sync with obsidian)
+- 
