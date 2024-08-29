@@ -10,9 +10,6 @@ I went with quartz due to the ease of:
 - Syncing updates
 	- I created a Raycast Script that will run the sync functions automatically, I just have to type "sync" into Raycast, and voila!
 
-Future upgrades:
-- I really liked the comments functionality in Flowershow via Giscus, I'm hoping that functionality will also be rolled out to quartz!
-
 ---
 
 Would love to be able to use something to export my notes with something like obsidian-export, and then publish them in a more custom way than the digital garden plugin or Obsidian Publish.

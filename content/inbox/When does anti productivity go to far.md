@@ -1,8 +1,6 @@
 ---
 
 ---
-# When does anti productivity go to far?
-
 
 When it’s something you enjoy. Ex. If it gives you joy to organize your productivity system, if it energizes you 
 
