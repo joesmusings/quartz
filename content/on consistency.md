@@ -12,10 +12,11 @@ This reframing of success turns actions from a finite, achievable goal, to an in
 Steven Pressfield was 52 when his first book was published. When asked, he attributes his consistency to:
 
 "I just couldn't do anything else and be happy."[^2]
-
+ 
 He would feel awful about his day job, go home, and write "something real."
 
 
 ---
+
 [^1]: [Lecture #1: Introduction — Brandon Sanderson on Writing Science Fiction and Fantasy](https://youtu.be/-6HOdHEeosc)
 [^2]: [What It Really Takes to Accomplish Your Dreams (ft. Steven Pressfield)](https://youtu.be/P5c6ZG5ct-0)
