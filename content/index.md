@@ -15,7 +15,7 @@ Welcome to Joe's Knowledge base!
 	- [[favorite content]]
 - Process & Think
 	- [[notes to process]]
-	- [[inbox]]
+	- [[inbox overview]]
 - Create
 - Act
 	- [[content implementation]]
