@@ -1,5 +1,5 @@
 RC Waldun
-1. markup your book to have a conversation with the author
+1. markup your book to have a conversation with the autho
 2. sign posting - look for the main propositions or claims the author is making, the key arguments. unerline or tab the main points the author is making
 3. summarize the main points from your signposts after you read a chapter - in your own words
 4. archive notes to a central place

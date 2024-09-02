@@ -60,7 +60,7 @@
 		{"id":"f393e1fab57ad689","type":"text","text":"Action Items","x":-1595,"y":-247,"width":250,"height":50,"color":"5"},
 		{"id":"0cf7e7ccf62e5088","type":"text","text":"Ideas:\n- Essays folder\n\t- statuses: draft, published, outline, etc\n\t- But how would this differentiate from my normal notes?","x":-1948,"y":-90,"width":250,"height":303},
 		{"id":"4d84bd3c13e074c5","type":"text","text":"Topic log: taking small topic-relevant bits from a daily log and chronoligically ordering them [example](https://notes.andymatuschak.org/zDuBTrCGDkf2J2TbtQwKDed)","x":-1007,"y":641,"width":250,"height":145},
-		{"id":"8c698034b0ed77f6","x":-1223,"y":1686,"width":734,"height":567,"type":"file","file":"my note making system.md"}
+		{"id":"8c698034b0ed77f6","x":-1223,"y":1686,"width":734,"height":567,"type":"file","file":"notes/my note making system.md"}
 	],
 	"edges":[
 		{"id":"eb74785c350fe440","fromNode":"d70f6ac8e0f880a6","fromSide":"bottom","toNode":"1d3714cb6e4f56c0","toSide":"top"},

@@ -38,6 +38,8 @@ Other animes to immerse ([source](https://www.youtube.com/watch?v=lktcZc9dYSI))
 - cafe: shirokuma cafe
 - advanced:
 	- hetalia
+[List of podcasts](https://docs.google.com/spreadsheets/d/17P2dBQHnBnHcG3ua_24IO6sP9RDC-5b3WHV9Ri2N5qU/edit?gid=0#gid=0)
+
 
 ## Level 1
 Japanese ammo with misa
