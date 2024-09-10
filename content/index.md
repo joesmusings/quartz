@@ -7,9 +7,9 @@ You can read my more refined, published stuff over at the [Joe's Musings Substac
 - [[personal knowledge management]]
 	- Inputs: [[reading]]
 	- Outputs: [[writing]]
-- [[meditation]]
+- [[efforts/projects/meditation]]
 - Hobbies
-	- [[learning japanese]]
+	- [[efforts/projects/learning japanese]]
 
 ## My Next Steps
 - Consume

@@ -9,3 +9,14 @@ When you have something time blocked, you have two options (from [[Neil Gaiman -
 1. do the thing
 2. do nothing
 
+
+
+## How to plan your day
+> 3:3:3 Plan:
+> - 3 hours on your most important project
+> - 3 shorter tasks
+> - 3 maintenance activities
+> Defining a "productive day" is crucial. Or else you'll never be at peace.
+> 
+> [source](https://www.instagram.com/benmeer/p/C0Jnc9UgvuA/)
+

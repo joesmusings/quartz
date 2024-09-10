@@ -11,5 +11,7 @@
 	- Youtube Channel
 - Cal Newport
 	- Podcast
-
+- Newsletters
+	- Range Widely - David Epstein
+	- The Imperfectionist - Oliver Burkeman
 ## Books
