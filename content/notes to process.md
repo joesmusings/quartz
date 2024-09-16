@@ -1,6 +1,7 @@
 ---
 
 ---
+
 ``` dataview
 table (date(today) - file.cday).day as "Days alive"
 from "notes/references"
