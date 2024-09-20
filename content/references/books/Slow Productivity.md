@@ -1,14 +1,16 @@
 ---
 title: Slow Productivity
 author: Cal Newport
-owned: Physical
+owned:
+  - Physical
 status: Read
 type: Non-Fiction Book
 dateStarted: 
-dateFinished:
+dateFinished: 
+layout: reference
 ---
 # Intro
-- John Mcphee - staring ant branches for two weeks
+- John Mcphee - staring at branches for two weeks
 - "I want to instead propose an entirely new way for you, your small business, or your large employer to think about what it means to get things done."
 	- Don't think he really achieves this, feels more like one off tips. No talk about conversations to have or even how to define productivity in a new way. No mentions of ROWE or setting KPIs, and having those be the north star. Or how to have a convo with your boss about implementing something like this. Or clients if you're a freelancer.
 

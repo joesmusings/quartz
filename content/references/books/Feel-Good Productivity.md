@@ -1,18 +1,15 @@
 ---
 layout: reference
-
 title: Feel-Good Productivity
 author: Ali Abdaal
 cover: http://books.google.com/books/content?id=es2iEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 owned:
   - Physical
-status: Reading
+status: Read
 type: Non-Fiction Book
 dateStarted: 
 dateFinished: 2024-02-19
-
 ---
-# Feel-Good Productivity
 
 ## Play
 
@@ -102,6 +99,7 @@ Crystal-ball method:
 The emotional label:
 - "When you're procrastinating, say to yourself, 'What am I afraid of?'"
 - "Next... ask yourself, 'Where does this feat come from?"
+
 ## Get Started
 
 |  | Experiment #1 | Experiment #2 |
@@ -116,11 +114,11 @@ Define the next action step:
 
 ## Conserve
 
-|  | Experiment #1 | Experiment #2 |
-| ---- | ---- | ---- |
-| Do less | The energy investment portfolio | The power of no |
-| Resist distraction | Add friction | Correct course |
-| Break more | Schedule your breaks | Embrace energizing distractions |
+|                    | Experiment #1                   | Experiment #2                   |
+| ------------------ | ------------------------------- | ------------------------------- |
+| Do less            | The energy investment portfolio | The power of no                 |
+| Resist distraction | Add friction                    | Correct course                  |
+| Break more         | Schedule your breaks            | Embrace energizing distractions |
 The energy investment portfolio:
 - "The idea of the 'energy investment portfolio' is simple. You simply come up with two lists. List A is a list of all your dreams, hopes, and ambitions. These are things you would like to do at some point, just probably not right now. List B is a list of your active investments. These are the projects you're actively investing energy into right now (or want to be). And by right now, I mean this week."
 - "If you want to move a dream into your active investments list, you need to make sure you've got the time and energy to invest in it."
