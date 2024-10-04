@@ -13,10 +13,14 @@ dateCreated:
 		- non-trivial, requiring a little effort, but still do-able for everything
 		- Cal recommends having one for work,  one for health, and one for yourself 
 2. Values - 4 weeks (mid oct)
-	 - "reconnect" with your moral intuition
+	 - "'reconnect' with your moral intuition"
+		 - connecting with whats important to you in life, what defines a life well lived, regardless of circumstances
 		 - reread something that really spoke to you, something that made you say "wow this is whats important in life"
 	 - write a first draft of your code
-		 - roadmap for how you approach your life, during both the good and bad times
+		 - roadmap for how you approach your life, during both the good and bad times that makes yourself proud
+		 - what you stand for
+		 - https://www.annahavron.com/blog/cal-newports-personal-framework
+		 - https://www.youtube.com/watch?v=muG5VcJx8fs
 	 - Rituals
 		 - regularly connect you to your moral intuition 
 		 - ex. meditiation, weekly hike, volunteering, 

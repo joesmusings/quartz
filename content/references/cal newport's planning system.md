@@ -16,5 +16,5 @@ status: To Read
 		- work shutdown 
 		- full capture of tasks
 	- discipline
-		- list of core disciplines (behaviours, habits, activities) that are strictly followed
+		- list of core disciplines (behaviors, habits, activities) that are strictly followed
 			- sometimes tracked by metrics
