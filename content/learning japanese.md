@@ -40,6 +40,9 @@ Other animes to immerse ([source](https://www.youtube.com/watch?v=lktcZc9dYSI))
 	- hetalia
 [List of podcasts](https://docs.google.com/spreadsheets/d/17P2dBQHnBnHcG3ua_24IO6sP9RDC-5b3WHV9Ri2N5qU/edit?gid=0#gid=0)
 
+Mass Sentences - Natural Language Learning
+- Japanese: https://drive.google.com/drive/folders/1jtJtBJ-CgTV0K8ULwZeSU-R6lfDodwLd
+- General: https://drive.google.com/drive/folders/1RzU-IsVZ0yf805C7hEZM1p1nI0s0iQJM
 
 ## Level 1
 Japanese ammo with misa

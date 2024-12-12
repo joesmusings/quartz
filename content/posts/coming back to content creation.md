@@ -162,3 +162,7 @@ All we can do is start again.
 For me, writing feels so good. But it's so difficult to convince myself that it's the case. When I finally make sense of the scramble inside of my head, find the perfect sentence to describe it, and chisel at the structure of the piece to create something new, it fills my cup.
 
 Though it seems like every time I step away, my memories are wiped. I forget the feeling that it brings, and it's so difficult to get back into the motions again.
+
+## References
+- [[most of my favorite writers and creators are the ones who only ship when they have something real to say]]
+

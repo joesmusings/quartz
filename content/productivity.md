@@ -4,6 +4,7 @@
 ## defining
 What is productivity?
 - The management, organization, and ability to do the things you want to do in a more efficient and effective manner
+	- Productivity = Output/Input 
 - Ali Abdaal defines it as being intentional with your time
 	- traditionally "unproductive" things can be "productive" within this approach, ex. scheduling in time to play videogames or watch a show
 
@@ -11,7 +12,7 @@ What is productivity?
 - organization
 - prioritization
 - time management
-- doing the thing
+- doing the work
 	- getting started
 	- keeping going
 		- reducing distractions

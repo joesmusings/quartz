@@ -4,10 +4,10 @@ id: 1165df74-23e7-4171-a1d4-a1c231ecc814
 omnivore: https://omnivore.app/me/https-twitter-com-ungatedcreative-status-1651034360894861314-1882fc22baa
 url: https://twitter.com/ungatedcreative/status/1651034360894861314
 author: rob hardy 🦌
-status: To Process
+status: Completed
 type: Article
 ---
-
+This is referenced in my post: [[coming back to content creation]]
 
 > counterpoint to these two wonderful dudes most of my favorite writers and creators are the ones who only ship when they have something real to say, even if that's once every other month [pic.twitter.com/utEAujztRq](https://twitter.com/ungatedcreative/status/1651024299011215360/photo/1)
 > 

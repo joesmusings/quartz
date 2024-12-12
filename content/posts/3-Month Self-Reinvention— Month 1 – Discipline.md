@@ -96,7 +96,7 @@ I’d recommend completely cutting out social media refresh feeds if it's not es
 
 For email, I’d recommend checking personal email for newsletters you want to save, bills you get, and personal contacts to just once per day. Schedule it on your calendar!
 
-Otherwise, remove as much as possible from this.
+Otherwise, remove as much as possible from this. For me, I’m planning on avoiding social media as much as possible, only using it as a content source if I happen to need information.
 
 #### Tier 3: Non-essential internet use
 

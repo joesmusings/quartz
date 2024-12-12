@@ -26,9 +26,9 @@ So, in the cracks between responding to urgent emails and cleaning the kitchen (
 
 But in actuality, it's all just avoidance. We end up taking the reins and steering away from the vision for our life, that person we so desperately say we want to be.
 
-It's not entirely your fault. This is how your brain is wired, and just how the world is.
+It's not entirely our fault. This is how our brain is wired, and just how the world is.
 
-However, you can take responsibility. You can act and become the person you want to be, and achieve the things you care about.
+However, we can take responsibility. We can act and become the people we want to be, and achieve the things we care about.
 
 # A 3 month plan to reinvent your life
 

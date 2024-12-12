@@ -11,5 +11,5 @@
 	- task management
 		- [[using things 3|things 3]]
 - Read it later
-	- omnivore (FOSS, native sync with obsidian)
+	- instapaper (free version, just for saving articles)
 - 

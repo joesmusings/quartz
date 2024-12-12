@@ -34,5 +34,5 @@ type: Article
 > 
 > That you should keep going. 
 
-How do you tell the difference between 5is and shiny object syndrome?
+How do you tell the difference between this and shiny object syndrome?
 
